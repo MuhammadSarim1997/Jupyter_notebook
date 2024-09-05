@@ -1,0 +1,30 @@
+12:54:09.301911:
+------------------------------------------------------------
+Request count: 1, Log time: 2024-08-21 12:54:09.301911
+
+12:54:13.468905:
+List is empty, Probabely banned!
+	Sleep for 5.0 hours!
+
+12:54:18.066163:
+Break the loop after exception!
+
+17:42:52.324840:
+------------------------------------------------------------
+Request count: 1, Log time: 2024-08-21 17:42:52.324841
+
+17:42:53.591435:
+List is empty, Probabely banned!
+	Sleep for 5.0 hours!
+
+17:46:43.625536:
+------------------------------------------------------------
+Request count: 1, Log time: 2024-08-21 17:46:43.624539
+
+17:46:45.067377:
+List is empty, Probabely banned!
+	Sleep for 5.0 hours!
+
+17:46:48.496392:
+Break the loop after exception!
+
